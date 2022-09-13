@@ -13,7 +13,5 @@ let sum = x3squared + y3squared;
 
 let distance = Math.sqrt(sum);
 
-console.log(distance);
-
 console.log(`${distance} is the distance between coordinates (x1, y1)
 and (x2, y2).`);
